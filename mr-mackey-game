@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Mr. Mackey: Curse of M'kay</title>
+    <link rel="stylesheet" href="style.css">
+  <div class="mini">
+    <img src="https://cdn.glitch.global/b286b4d2-a8cd-476b-bc9b-e429052d7efa/mini%20mackey.png?v=1697497246066" alt="mini Mackey">
+  </div>  
+    <div class="Mackeys">
+      <img src="https://cdn.glitch.global/b286b4d2-a8cd-476b-bc9b-e429052d7efa/Mr._Mackey.png?v=1697146750972" alt="mr.mackey">
+  </div>
+</head>
+<body>
+    <div class="kay">
+      <h2>
+      And The Curse Of M'kay
+    </h2>
+      </div>
+ 
+  <div class="mr">
+    <h1>
+      Mr.Mackey
+     </h1>
+  <div class="devs">
+    <h5>
+      
+  </h5>
+  </div>
+  <a href="https://mr-mackey-game.glitch.me/">
+    <div class="w">
+      <button style= "background-color: #187A35; color: black; height: 100px; width: 200;">
+      Wave-Battle
+    </button>
+  </div>
+  </a>
+    <div class="set">
+      <button style= "background-color: #187A35; color: black; height: 100px; width: 200;">
+       game-setting
+    </button>
+  </div>
+  
+</body>
+</html>
