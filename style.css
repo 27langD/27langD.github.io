@@ -1,6 +1,10 @@
 body
 {
-    font-family: sans-serif;
+    font-family: 'south_parkregular';
+    src: url('https://the-mackeys-game.github.io/south_park-webfont.woff2') format('woff2'),
+         url('https://the-mackeys-game.github.io/south_park-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
     text-align: center;
     color: #1f1017;
     background-color: rgb(15, 156, 57);
@@ -51,7 +55,11 @@ hr
 
 .code-block
 {
-    font-family: monospace;
+    font-family: 'south_parkregular';
+    src: url('south_park-webfont.woff2') format('woff2'),
+         url('south_park-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
     font-size: 12pt;
     background-color: #0f000777;
     border-radius: 3px;
