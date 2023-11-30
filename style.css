@@ -1,6 +1,6 @@
 @font-face { 
         font-family: 'south_parkregular';
-        src: url('https://the-mackeys-game.github.io/south_park-webfont.woff2') format('woff2'); 
+        src: url('https://the-mackeys-game.github.io/south_park-webfont.woff2') format('woff2') 
              url('https://the-mackeys-game.github.io/south_park-webfont.woff') format('woff');
 
 body
